@@ -1,4 +1,4 @@
-# 🚀 Custom PageSpeed Reline
+# 🚀 Custom PageSpeed
 
 🔧 **Plugin WordPress para otimização extrema de performance**  
 📦 Desenvolvido por [Rafael Medeiros](https://github.com/rafacrt)
