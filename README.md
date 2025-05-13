@@ -30,7 +30,7 @@ Este plugin foi criado para **otimizar a performance de sites WordPress**, com f
 ---
 
 ### 🚀 Como instalar
-1. Faça o upload da pasta `custom-pagespeed-reline` em `/wp-content/plugins/`
+1. Faça o upload da pasta `custom-pagespeed` em `/wp-content/plugins/`
 2. Ative o plugin no painel do WordPress
 3. ✅ Pronto! A mágica já está rodando em segundo plano
 
