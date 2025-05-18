@@ -37,7 +37,11 @@ Este plugin foi criado para **otimizar a performance de sites WordPress**, com f
 ---
 
 ### 📜 Licença
-Distribuído sob a licença MIT. Veja `LICENSE` para mais detalhes.
+Este plugin é software livre; você pode redistribuí-lo e/ou modificá-lo sob os termos da **Licença Pública Geral GNU, versão 2** (ou qualquer versão posterior publicada pela Free Software Foundation).
+
+Este plugin é distribuído com a esperança de que seja útil, mas **SEM NENHUMA GARANTIA**, nem mesmo a garantia implícita de **COMERCIALIZAÇÃO** ou **ADEQUAÇÃO A UM DETERMINADO PROPÓSITO**.
+
+Veja o arquivo `LICENSE` para mais detalhes.
 
 ---
 
